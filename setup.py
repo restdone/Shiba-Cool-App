@@ -15,7 +15,7 @@ from setuptools import setup
 setup(
     name="shiba",
     version="0.1",
-    description="A package named shiba that intentionally fails during installation.",
+    description="A cool cool shiba app",
     author="Your Name",
     packages=["shiba"],
 )
