@@ -3,6 +3,7 @@ from setuptools import setup
 ### , 
 ## ```The bug was reported at https://github.com/restdone/Shiba-Cool-App/issues/1
 #raise RuntimeError(
+#    "Check the Shiba-Cool-App Issue and follow the guideline to fix the package problem"
 #)
 
 setup(
